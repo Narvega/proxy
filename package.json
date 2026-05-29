@@ -1,6 +1,6 @@
 {
   "name": "@narvega/proxy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Stdio proxy that bridges Claude Desktop to the Narvega MCP gateway",
   "type": "module",
   "bin": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danrovito/narvega"
+    "url": "https://github.com/narvega/proxy"
   },
   "license": "MIT",
   "keywords": [
